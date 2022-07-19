@@ -1,3 +1,3 @@
 ## Jot
 
-Random ideas jotted down.
+Ideas jotted down, publicly
