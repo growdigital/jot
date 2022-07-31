@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Marked"
+			],
+			[
+				"marke",
+				"Marked"
+			],
+			[
+				"mar",
+				"Marked"
+			],
+			[
+				"marked",
+				"Marked"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"incre",
+				"Increment Selection"
+			],
+			[
+				"inc",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jaker/Work/Jot"
+	],
+	"file_history":
+	[
+		"/Users/jaker/Work/Notes/clifftop/notes.md",
+		"/Users/jaker/Work/Notes/mor/index.md",
+		"/Users/jaker/Work/Notes/mor/management.md",
+		"/Users/jaker/Work/Notes/mor/schedule.md",
+		"/Users/jaker/Work/Notes/undergrove/notes.md",
+		"/Users/jaker/.zshrc",
+		"/Users/jaker/Desktop/thing.json",
+		"/Users/jaker/Work/Notes/agro/management.md",
+		"/Users/jaker/Work/Notes/agro/schedule.md",
+		"/Users/jaker/Work/Notes/agro/index.md",
+		"/Users/jaker/Work/Notes/agro/notes.md",
+		"/Users/jaker/Work/Notes/primary/insects.md",
+		"/Users/jaker/Work/Notes/primary/schedule.md",
+		"/Users/jaker/Work/Notes/primary/index.md",
+		"/Users/jaker/Work/Notes/primary/design.md",
+		"/Users/jaker/Work/Notes/primary/notes.md",
+		"/Users/jaker/Work/Notes/clifftop/management.md",
+		"/Users/jaker/Work/Notes/clifftop/schedule.md",
+		"/Users/jaker/Work/Notes/clifftop/index.md",
+		"/Users/jaker/Work/Notes/wildwood/management.md",
+		"/Users/jaker/Work/Notes/wildwood/schedule.md",
+		"/Users/jaker/Work/Notes/wildwood/index.md",
+		"/Users/jaker/Work/Notes/wildwood/notes.md",
+		"/Users/jaker/Work/Notes/wildwood/random.md",
+		"/Users/jaker/Work/Notes/inverts/index.md",
+		"/Users/jaker/Work/Notes/inverts/achillea-millefolium/index.md",
+		"/Users/jaker/Work/Notes/inverts/silene-dioica/index.md",
+		"/Users/jaker/Work/Notes/feidrhenffordd/management.md",
+		"/Users/jaker/Work/Notes/feidrhenffordd/schedule.md",
+		"/Users/jaker/Work/Notes/feidrhenffordd/index.md",
+		"/Users/jaker/Work/Notes/wildpaddock/report.md",
+		"/Users/jaker/Work/Notes/wildpaddock/schedule.md",
+		"/Users/jaker/Work/Notes/wildpaddock/index.md",
+		"/Users/jaker/Work/Notes/undergrove/schedule.md",
+		"/Users/jaker/Work/Notes/undergrove/index.md",
+		"/Users/jaker/Work/Notes/undergrove/maintenance.md",
+		"/Users/jaker/Work/Notes/riveryard/schedule.md",
+		"/Users/jaker/Work/Notes/riveryard/index.md",
+		"/Users/jaker/Work/Notes/riveryard/maintenance.md",
+		"/Users/jaker/Work/Notes/calm/management.md",
+		"/Users/jaker/Work/Notes/calm/schedule.md",
+		"/Users/jaker/Work/Notes/calm/index.md",
+		"/Users/jaker/Work/Notes/calm/notes.md",
+		"/Users/jaker/Work/Notes/annex/schedule.md",
+		"/Users/jaker/Work/Notes/annex/index.md",
+		"/Users/jaker/Work/Notes/annex/maintenance.md",
+		"/Users/jaker/Work/Notes/template/management.md",
+		"/Users/jaker/Work/Notes/template/schedule.md",
+		"/Users/jaker/Work/Notes/template/index.md",
+		"/Users/jaker/Work/Notes/show/management.md",
+		"/Users/jaker/Work/Notes/show/schedule.md",
+		"/Users/jaker/Work/Notes/show/index.md",
+		"/Users/jaker/Work/Notes/show/notes.md",
+		"/Users/jaker/Work/Notes/rhug/management.md",
+		"/Users/jaker/Work/Notes/rhug/schedule.md",
+		"/Users/jaker/Work/Notes/rhug/index.md",
+		"/Users/jaker/Work/Notes/rhug/notes.md",
+		"/Users/jaker/Work/Notes/walled/schedule.md",
+		"/Users/jaker/Work/Notes/walled/index.md",
+		"/Users/jaker/Work/Notes/walled/checklist.md",
+		"/Users/jaker/Work/Notes/walled/design.md",
+		"/Users/jaker/Work/Notes/walled/notes.md",
+		"/Users/jaker/Work/Notes/oasis/schedule.md",
+		"/Users/jaker/Work/Notes/oasis/index.md",
+		"/Users/jaker/Work/Notes/oasis/notes.md",
+		"/Users/jaker/Work/Notes/show/app.md",
+		"/Users/jaker/Desktop/your-org.md",
+		"/Users/jaker/Desktop/best-approach.md",
+		"/Users/jaker/Work/Jot/banners.md",
+		"/Users/jaker/Desktop/first draft.md",
+		"/Users/jaker/Desktop/minutes.md",
+		"/Users/jaker/Desktop/angus.md",
+		"/Users/jaker/Desktop/binme.md",
+		"/Users/jaker/Work/XR/Council Letter/council-leader-letter.txt",
+		"/Users/jaker/Desktop/council-leader-letter.txt",
+		"/Users/jaker/Desktop/council.md",
+		"/Users/jaker/Desktop/details.txt",
+		"/Users/jaker/Work/Primary/creation/Eco-council meeting/plant and insect names.md",
+		"/Users/jaker/Work/Agro/cad/README.md",
+		"/Users/jaker/Work/Notes/template/maintenance.md",
+		"/Users/jaker/Work/Notes/agro/maintenance.md",
+		"/Users/jaker/Work/Undergrove/cad/README.md",
+		"/Users/jaker/Work/Template project/cad/README.md",
+		"/Users/jaker/Work/Notes/wildwood/maintenance.md",
+		"/Users/jaker/Work/Wildwood/cad/README.md",
+		"/Users/jaker/Desktop/buffer.txt",
+		"/Users/jaker/Work/Riveryard/cad/README.md",
+		"/Users/jaker/Work/Walled/admin/estimate planting.md",
+		"/Users/jaker/Work/Notes/invertrebates/index.md",
+		"/Users/jaker/Work/Notes/insects/index.md",
+		"/Users/jaker/Work/Notes/insects-food-plants/index.md",
+		"/Users/jaker/Work/Council election/Leaflet/leaflet-text.md",
+		"/Users/jaker/Downloads/divest-dyfed-template-email.txt",
+		"/Users/jaker/Work/Notes/walled/divest-dyfed-template-email.md",
+		"/Users/jaker/Desktop/update links.md",
+		"/Users/jaker/Work/Notes/walled/report.md",
+		"/Users/jaker/Work/Notes/walled/220331-report.md",
+		"/Users/jaker/Work/Notes/walled/220331-report-replies.md",
+		"/Users/jaker/Downloads/_Bittorrent/Pimsleur Russian/Pimsleur - Russian Level 1 Lessons 1-5 Learn to Speak and Understand Russian with Pimsleur Language Programs/Russian Level 1 Lessons 1-5 Learn to Speak and Understand Russian with Pimsleur Language Programs.cue",
+		"/Users/fgw/Desktop/binme.md",
+		"/Users/fgw/Work/Notes/walled/index.md",
+		"/Users/fgw/Work/Notes/primary/index.md",
+		"/Users/fgw/Work/Notes/walled/notes.md",
+		"/Users/fgw/Work/Notes/oasis/notes.md",
+		"/Users/fgw/Work/Notes/oasis/index.md",
+		"/Users/fgw/Work/Notes/walled/checklist.md",
+		"/Users/fgw/Desktop/BBQ Lentils.md",
+		"/Users/fgw/Work/Notes/clifftop/index.md",
+		"/Users/fgw/Library/Application Support/minecraft/saves/Zero/advancements/48ca3177-87bd-4b29-83d0-8068a5005cd2.json",
+		"/Users/fgw/Work/Notes/walled/design.md",
+		"/Users/fgw/Desktop/buffer.txt",
+		"/Users/fgw/Work/Notes/clifftop/notes.md",
+		"/Users/fgw/Work/Notes/clifftop/schedule.md",
+		"/Users/fgw/Work/Notes/walled/schedule.md",
+		"/Users/fgw/Work/Notes/wildpaddock/index.md",
+		"/Users/fgw/Work/Notes/template/index.md",
+		"/Users/fgw/Downloads/cad/README.md",
+		"/Users/fgw/Work/Notes/wildpaddock/schedule.md",
+		"/Users/fgw/Work/Notes/wildpaddock/report.md",
+		"/Users/fgw/Work/Paddock/cad/.git/config",
+		"/Users/fgw/Desktop/questions.md",
+		"/Users/fgw/Downloads/Talk Talk/The Colour of Spring/the-colour-of-spring.cue",
+		"/Users/fgw/Downloads/Talk Talk/The Colour of Spring/tracklisting.txt",
+		"/Users/fgw/Downloads/Red Herring/Faster Moving Forward/faster-moving-forward.cue",
+		"/Users/fgw/Downloads/Red Herring/Faster Moving Forward/Tracklist.txt",
+		"/Users/fgw/Work/Notes/paddock/index.md",
+		"/Users/fgw/Work/Notes/template/schedule.md",
+		"/Users/fgw/Work/Notes/paddock/schedule.md"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 0,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jot.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"clifftop notes",
+				"clifftop/notes.md"
+			],
+			[
+				"design",
+				"walled/design.md"
+			],
+			[
+				"template",
+				"template/index.md"
+			],
+			[
+				"chec",
+				"walled/checklist.md"
+			],
+			[
+				"walled index",
+				"walled/index.md"
+			],
+			[
+				"cliffto",
+				"clifftop/schedule.md"
+			],
+			[
+				"clifftop sche",
+				"clifftop/schedule.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"natu",
+				"~/Sites/natureworks.org.uk/natureworks.sublime-project"
+			],
+			[
+				"garde",
+				"~/Sites/gardenwild.org.uk/gardenwild.sublime-project"
+			],
+			[
+				"gar",
+				"~/Sites/gardenwild.org.uk/gardenwild.sublime-project"
+			],
+			[
+				"gard",
+				"~/Sites/gardenwild.org.uk/gardenwild.sublime-project"
+			],
+			[
+				"nat",
+				"~/Sites/natureworks.org.uk/natureworks.sublime-project"
+			],
+			[
+				"na",
+				"~/Sites/natureworks.org.uk/natureworks.sublime-project"
+			],
+			[
+				"",
+				"~/Sites/natureworks.org.uk/natureworks.sublime-project"
+			],
+			[
+				"note",
+				"~/Work/Notes/Notes.sublime-project"
+			],
+			[
+				"no",
+				"~/Work/Notes/Notes.sublime-project"
+			],
+			[
+				"not",
+				"~/Work/Notes/Notes.sublime-project"
+			],
+			[
+				"nature",
+				"~/Sites/natureworks.org.uk/natureworks.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
