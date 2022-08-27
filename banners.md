@@ -24,7 +24,7 @@
 _Click photo for higher res image_
 
 
-## Rebels Bach
+## Rebels Bach gallery
 
 <!-- Add images to <div class="fotorama"></div> -->
 <div class="fotorama">
