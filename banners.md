@@ -28,7 +28,7 @@ _Click photo for higher res image_
 
 <!-- Add images to <div class="fotorama"></div> -->
 <div class="fotorama">
-  <img src="https://res.cloudinary.com/growdigital/image/upload/v1661602276/xr/rebels-bach-green-tree.jpg">
+  <img src="https://res.cloudinary.com/growdigital/image/upload/v1661602276/xr/rebels-bach-blue-river.jpg">
   <img src="https://res.cloudinary.com/growdigital/image/upload/v1661602276/xr/rebels-bach-green-tree.jpg">
   <img src="https://res.cloudinary.com/growdigital/image/upload/v1661541400/xr/red-rebels-bach.jpg">
   <img src="https://res.cloudinary.com/growdigital/image/upload/v1661602276/xr/rebels-bach-green-tree.jpg">
