@@ -19,7 +19,7 @@
 | White | DIM TANWYDD FFOSIL NEWYDD<br>NO NEW FOSSIL FUELS | 1.2m | 3.3m | Bilingual + images | [![banner](https://res.cloudinary.com/growdigital/image/upload/w_80/v1659262591/xr/banner-no-new-fossil-fuels.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1659262591/xr/banner-no-new-fossil-fuels.jpg)|
 | White-ish | CLIMATE CRISIS ACT NOW | -m | -m | | [![banner](https://res.cloudinary.com/growdigital/image/upload/w_80/v1661286912/xr/climate-crisis-act-now.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1661286912/xr/climate-crisis-act-now.jpg)|
 | Pink/blue/white| Climate Science | 2.5m | 1.5m | Bilingual x2 | [![banner](https://res.cloudinary.com/growdigital/image/upload/w_80/v1661286913/xr/climate-science.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1661286913/xr/climate-science.jpg)|
-| Red/green/blue| Red Rebels Bach | -cm | -cm |  | [![figurines](https://res.cloudinary.com/growdigital/image/upload/w_80/v1661541400/xr/red-rebels-bach.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1661541400/xr/red-rebels-bach.jpg)|
+| Red/green/blue| Red Rebels Bach | 30cm | - | Multilingual figurines | [![figurines](https://res.cloudinary.com/growdigital/image/upload/w_80/v1661541400/xr/red-rebels-bach.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1661541400/xr/red-rebels-bach.jpg)|
 
 _Click photo for higher res image_
 
