@@ -17,138 +17,12 @@
 			}
 		},
 		{
-			"file": "workshops.md",
+			"file": "schools.md",
 			"settings":
 			{
-				"buffer_size": 73,
-				"encoding": "UTF-8",
+				"buffer_size": 115,
 				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					4,
-					1,
-					"insert",
-					{
-						"characters": "Tech"
-					},
-					"BAAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					5,
-					1,
-					"left_delete",
-					null,
-					"AQAAABoAAAAAAAAAGgAAAAAAAAABAAAAaA",
-					"AQAAAAAAAAABAAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					6,
-					1,
-					"insert",
-					{
-						"characters": "ach"
-					},
-					"AwAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					7,
-					4,
-					"left_delete",
-					null,
-					"BAAAABwAAAAAAAAAHAAAAAAAAAABAAAAaBsAAAAAAAAAGwAAAAAAAAABAAAAYxoAAAAAAAAAGgAAAAAAAAABAAAAYRkAAAAAAAAAGQAAAAAAAAABAAAAYw",
-					"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					8,
-					1,
-					"insert",
-					{
-						"characters": "ach"
-					},
-					"AwAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					9,
-					1,
-					"insert",
-					{
-						"characters": " The"
-					},
-					"BAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAIAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					10,
-					1,
-					"insert",
-					{
-						"characters": " Future"
-					},
-					"BwAAACAAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACMAAAAAAAAAAAAAACMAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACYAAAAAAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					11,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAACcAAAAAAAAAKAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					14,
-					1,
-					"insert",
-					{
-						"characters": "["
-					},
-					"AQAAABcAAAAAAAAAGAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					16,
-					1,
-					"left_delete",
-					null,
-					"AQAAACgAAAAAAAAAKAAAAAAAAAABAAAAIA",
-					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAP///////+9/"
-				],
-				[
-					17,
-					1,
-					"insert",
-					{
-						"characters": "]"
-					},
-					"AQAAACgAAAAAAAAAKQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					18,
-					1,
-					"insert_snippet",
-					{
-						"contents": "($0)"
-					},
-					"AQAAACkAAAAAAAAAKwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					21,
-					1,
-					"paste",
-					null,
-					"AQAAACoAAAAAAAAASAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
+			}
 		}
 	],
 	"build_system": "",
@@ -223,6 +97,7 @@
 	],
 	"file_history":
 	[
+		"/Users/jaker/Work/Jot/schools.md",
 		"/Users/jaker/Work/Jot/workshops.md",
 		"/Users/jaker/Work/Jot/_includes/head-custom.html",
 		"/Users/jaker/Work/Jot/banners.md",
@@ -349,8 +224,7 @@
 		"/Users/fgw/Desktop/questions.md",
 		"/Users/fgw/Downloads/Talk Talk/The Colour of Spring/the-colour-of-spring.cue",
 		"/Users/fgw/Downloads/Talk Talk/The Colour of Spring/tracklisting.txt",
-		"/Users/fgw/Downloads/Red Herring/Faster Moving Forward/faster-moving-forward.cue",
-		"/Users/fgw/Downloads/Red Herring/Faster Moving Forward/Tracklist.txt"
+		"/Users/fgw/Downloads/Red Herring/Faster Moving Forward/faster-moving-forward.cue"
 	],
 	"find":
 	{
@@ -432,28 +306,28 @@
 				},
 				{
 					"buffer": 1,
-					"file": "workshops.md",
+					"file": "schools.md",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 73,
+						"buffer_size": 115,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								72,
-								72
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 34,
-								"count": 4,
+								"changes": 0,
+								"count": 6,
 								"modified": false,
 								"selection": false,
 								"status": -1,
