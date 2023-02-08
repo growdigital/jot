@@ -24,8 +24,8 @@
 | Badge making machine | | | | | | Soo |
 | Block-printing material + patches | | | | | | Jane |
 | 2 Pop-ups | | | | | | 1 Philippa, 1 Soo |
-| Green bank-scrubbers tabards | | | | | Several one-size fits all tabards | Philippa |
-| White bank-scrubbers suits  | | | | | Several one-size fits all suits | Audley |
+| Green bank-scrubbers tabards | | | | Several one-size fits all tabards | | Philippa |
+| White bank-scrubbers suits  | | | | Several one-size fits all suits | | Audley |
 
 _Click photo for higher res image_
 
