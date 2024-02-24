@@ -18,14 +18,15 @@
 | Pink | gwrthryfel difodiant | 1.8m | 0.8m | [= extinction rebellion] | [![banner](https://res.cloudinary.com/growdigital/image/upload/w_80/v1659261585/xr/banner-gwrthryfel-difodiant.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1659261585/xr/banner-gwrthryfel-difodiant.jpg) |
 | White | DIM TANWYDD FFOSIL NEWYDD<br>NO NEW FOSSIL FUELS | 1.2m | 3.3m | Bilingual + images | [![banner](https://res.cloudinary.com/growdigital/image/upload/w_80/v1659262591/xr/banner-no-new-fossil-fuels.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1659262591/xr/banner-no-new-fossil-fuels.jpg) | Philippa |
 | White-ish | CLIMATE CRISIS ACT NOW | -m | -m | | [![banner](https://res.cloudinary.com/growdigital/image/upload/w_80/v1661286912/xr/climate-crisis-act-now.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1661286912/xr/climate-crisis-act-now.jpg) | Philippa |
-| Pink/blue/white| Climate Science | 1.5m | 2.5m | Bilingual x2 | [![banner](https://res.cloudinary.com/growdigital/image/upload/w_80/v1661286913/xr/climate-science.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1661286913/xr/climate-science.jpg) | Philippa |
-| Red/green/blue| Red Rebels Bach | 30cm | - | Multilingual figurines | [![figurines](https://res.cloudinary.com/growdigital/image/upload/w_80/v1661541400/xr/red-rebels-bach.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1661541400/xr/red-rebels-bach.jpg) | Sarah |
+| Pink/blue/white| Climate Science | 1.5m | 2.5m | Bilingual x2 | [![banner](https://res.cloudinary.com/growdigital/image/upload/w_80/v1661286913/xr/climate-science.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1661286913/xr/climate-science.jpg) | SERO Centre, Carmarthen |
+| Red/green/blue| Red Rebels Bach | 30cm | - | Multilingual figurines | [![figurines](https://res.cloudinary.com/growdigital/image/upload/w_80/v1661541400/xr/red-rebels-bach.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1661541400/xr/red-rebels-bach.jpg) | SERO Centre, Carmarthen |
 | White + purple-pink | YR HINSAWDD - YN EIN DWYLO | 65cm | 6m | = The Climate - in our hands | [![People in room with banner](https://res.cloudinary.com/growdigital/image/upload/w_80/v1675891454/xr/yr-hinsawdd-yn-ein-dwylo.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1675891454/xr/yr-hinsawdd-yn-ein-dwylo.jpg) | Philippa |
 | Badge making machine | | | | | | Soo |
 | Block-printing material + patches | | | | | | Jane |
 | 2 Pop-ups | | | | | | 1 Philippa, 1 Soo |
 | Green bank-scrubbers tabards | | | | Several one-size fits all tabards | | Philippa |
 | White bank-scrubbers suits  | | | | Several one-size fits all suits | | Audley |
+| Poster of XR Principles  | | | | Several one-size fits all suits | | x1 Jane, x1 Philippa |
 
 _Click photo for higher res image_
 
