@@ -26,7 +26,7 @@
 | 2 Pop-ups | | | | | | 1 Philippa, 1 Soo |
 | Green bank-scrubbers tabards | | | | Several one-size fits all tabards | | Philippa |
 | White bank-scrubbers suits  | | | | Several one-size fits all suits | | Audley |
-| Poster of XR Principles  | | | | Several one-size fits all suits | | x1 Jane, x1 Philippa |
+| Poster of XR Principles  | - | 84cm | 59cm | - | [![Poster of XR principles](https://res.cloudinary.com/growdigital/image/upload/w_90/v1708892816/xr/xr-principles.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1708892816/xr/xr-principles.jpg) | x1 Jane, x1 Philippa |
 
 _Click photo for higher res image_
 
