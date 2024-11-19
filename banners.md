@@ -27,6 +27,7 @@
 | Green bank-scrubbers tabards | | | | Several one-size fits all tabards | | Philippa |
 | White bank-scrubbers suits  | | | | Several one-size fits all suits | | Audley |
 | Poster of XR Principles  | - | 84cm | 59cm | - | [![Poster of XR principles](https://res.cloudinary.com/growdigital/image/upload/w_90/v1708892816/xr/xr-principles.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1708892816/xr/xr-principles.jpg) | x1 Jane, x1 Philippa |
+| Postbox for public letters  | - | 50cm | 50cm | Depth 30cm | [![Postbox](https://res.cloudinary.com/growdigital/image/upload/w_90/v1732045816/xr/241119-fossil-free-post-box.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1732045816/xr/241119-fossil-free-post-box.jpg) | Audley |
 
 _Click photo for higher res image_
 
